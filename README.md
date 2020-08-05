@@ -2,10 +2,18 @@
 
 Hello, my name is Gabriel Grajeda. I am currently an undergraduate at Princeton University. My projects are listed below with descriptions. Feel free to email me at [ggrajeda@princeton.edu]() with any questions or comments.
 
+# Boston ZIP Earnings
+
+### Summary
+I created the Boston ZIP Earnings Project in summer 2020. The point of the project is to depict household income disparities between Boston neighborhoods. City employee earnings are used as a proxy for household income, because these figures are reported yearly. More information can be found on the [project's website](https://ggrajeda.github.io/boston-zip-earnings/).
+
+### Link
+https://ggrajeda.github.io/boston-zip-earnings/
+
 # Coding Car
 
 ### Summary
-I created the Coding Car project in summer 2016, when I was a rising junior in high school. The point of the project is to introduce kids to coding in a more entertaining way. Students would visit [this website](http://ggrajeda.github.io/coding-car) (looks best on Chrome) and learn to program a remote-controlled car at three different levels: **Play**, **Learn**, and **Get Coding!**.
+I created the Coding Car project in summer 2016, when I was a rising junior in high school. The point of the project is to introduce kids to coding in a more entertaining way. When the project was up and running, students would visit [this website](https://ggrajeda.github.io/coding-car/) (looks best on Chrome) and learn to program a remote-controlled car at three different levels: **Play**, **Learn**, and **Get Coding!**.
 
 In **Play**, kids would press buttons to control the car. The buttons are labelled in pure English (no programming syntax yet), with each button belonging to a group of car controls (e.g. _Direction_, _Headlights_). It's important to note that you don't control the car with a joystick, but with buttons. The point of the **Play** section is not just for students to play around with the controls and have fun as they would with a normal RC car, but for them to get an intuitive grasp for subdividing routines. For example, to make a full loop around an oval track, you need to go forwards for a while, turn left for a bit, go forwards again for a while, and then turn left once more. While this seems obvious, we found that kids benefitted from learning to break larger tasks (like completing a lap around a track) into smaller subroutines.
 
@@ -24,3 +32,6 @@ This was my first attempt at coding in HTML, CSS, and Javascript. It was a lot t
 Because I was learning HTML, CSS, and Javascript all at once, I sacrificed code design for code functionality. In other words, I wanted to get working code---not necessarily beautiful code. This means that the source code is quite messy, which I regret, as it is difficult to edit the project many years later. But perhaps this messiness can be excused by the fact that I hadn't yet taken any formal computer science classes at the time.
 
 Finally, the website only worked with my personal car. If I had made more cars, I could have assigned each one a key to be passed in before entering the website.
+
+### Link
+https://ggrajeda.github.io/coding-car/
