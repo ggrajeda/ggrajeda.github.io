@@ -5,7 +5,7 @@ Hello, my name is Gabriel Grajeda. I am currently an undergraduate at Princeton 
 # Coding Car
 
 ### Summary
-Coding Car was a project I created in the summer of 2016, when I was a rising junior in high school. The point of the project was to introduce kids to coding in a new and entertaining way. Students would visit [this website](http://ggrajeda.github.io/coding-car) and learn to program my remote-controlled car at three different levels: **Play**, **Learn**, and **Get Coding!**. 
+Coding Car was a project I created in the summer of 2016, when I was a rising junior in high school. The point of the project was to introduce kids to coding in a new and entertaining way. Students would visit [this website](http://ggrajeda.github.io/coding-car) (looks best on Chrome) and learn to program my remote-controlled car at three different levels: **Play**, **Learn**, and **Get Coding!**. 
 
 In **Play**, kids would press buttons to control the car. The buttons are labelled in pure English (no programming syntax yet), with each button belonging to a group of car controls (e.g. _Direction_, _Headlights_). It's important to note that you don't control the car with a joystick, but with buttons. The point of the **Play** section is not just for students to play around with the controls and have fun as they would with a normal RC car, but for them to get an intuitive grasp for subdividing routines. For example, to make a full loop around an oval track, you need to go forwards for a while, turn left for a bit, go forwards again for a while, and then turn left once more. While this seems obvious, we found that kids benefitted from learning to break larger tasks (like completing a lap around a track) into smaller subroutines.
 
