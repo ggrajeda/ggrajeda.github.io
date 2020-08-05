@@ -59,7 +59,7 @@ get_chart <- function() {
       plot.subtitle = element_text(size= 13, hjust=0.5, color = "#4e4d47"),
       legend.position = "bottom"
     )
-  ggsave(path="images", filename=paste("zip_earnings", year, "noid", ".png", sep=""), plot = p)
+  ggsave(path="images", filename=paste("zip_earnings", year, "_noid", ".png", sep=""), plot = p)
   return(p)
 }
 
