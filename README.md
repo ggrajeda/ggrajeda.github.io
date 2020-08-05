@@ -23,8 +23,4 @@ This was my first attempt at coding in HTML, CSS, and Javascript. It was a lot t
 
 Because I was learning HTML, CSS, and Javascript all at once, I sacrificed code design for code functionality. In other words, I wanted to get working code---not necessarily beautiful code. This means that the source code is quite messy, which I regret, as it is difficult to edit the project many years later. But perhaps this messiness can be excused by the fact that I hadn't yet taken any formal computer science classes at the time.
 
-Finally, the website only worked with my personal car. If I made more cars, I could assign each one a key that could be passed in before entering the website.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Finally, the website only worked with my personal car. If I had made more cars, I could have assigned each one a key to be passed in before entering the website.
