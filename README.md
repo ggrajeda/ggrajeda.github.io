@@ -1,4 +1,4 @@
-# Welcome
+# About Me
 
 Hello, my name is Gabriel Grajeda. I am currently an undergraduate at Princeton University. My projects are listed below with descriptions. Feel free to email me at [ggrajeda@princeton.edu]() with any questions or comments.
 
