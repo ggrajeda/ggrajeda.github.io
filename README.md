@@ -39,18 +39,27 @@ Smart plugs are actually [really common now](https://www.wired.com/gallery/best-
 # Course Projects
 To prevent against plagiarism, my course projects cannot be uploaded to GitHub, but some of them may still be of interest. For each course, I have listed the three most notable projects.
 
-## Introduction to Java Programming (COS 126)
+## COS 126: Introduction to Java Programming (Java)
   1. **N-body Simulation**: Simulated the motion of _n_ particles under mutual gravitational forces and animated the results.
   2. **Markov Model**: Generated stylized pseudo-random text after training on large text files.
   3. **Traveling Salesperson Problem**: Implemented the two greedy "nearest neighbor" and "smallest increase" heuristics to find reasonable (but suboptimal) solutions to the traveling salesperson problem.
 
-## Algorithms and Data Structures (COS 226)
-  1. **Autocomplete**: "Autocompleted" queries with the closest matching strings in a large text file.
-  2. **kd Trees**: Implemented a 2d-tree to optimize range searches and nearest-neighbor searches.
-  3. **Seam Carving**: Implemented the content-aware image resizing algorithm known as "seam carving."
-  
-
-## Introduction to Programming Systems (COS 217)
+## COS 217: Introduction to Programming Systems (C)
   1. **Symbol Table**: Implemented a symbol table as a linked list and a hash table.
   2. **Heap Manager**: Wrote five different implementations of a memory heap manager, including a linked list implementation, a doubly-linked list implementation, and a bins implementation.
   3. **Unix Shell**: Implemented my own shell, handling lexical analysis, syntactic analysis, external commands, built-in commands, redirection, and signals.
+
+## COS 226: Algorithms and Data Structures (Java)
+  1. **Autocomplete**: "Autocompleted" queries with the closest matching strings in a large text file.
+  2. **kd Trees**: Implemented a 2d-tree to optimize range searches and nearest-neighbor searches.
+  3. **Seam Carving**: Implemented the content-aware image resizing algorithm known as "seam carving."
+
+## COS 324: Introduction to Machine Learning (Python)
+  1. **Clustering**: Implemented clustering algorithm with two different center initialization methods.
+  2. **Low Rank Matrix Approximation**: Implemented low-rank matrix approximation algorithm using gradient descent.
+  3. **Multiclass Classification of Images**: Implemented and trained a convolutional neural network to classify handwritten digits.
+
+## COS 326: Functional Programming (OCaml)
+  1. **Interpreter**: Implemented an environment-based interpreter that prunes function closures efficiently.
+  2. **Moogle**: Implemented a web crawler and a PageRank algorithm.
+  3. **Web Indexing**: Computed the inverted index of documents efficiently with parallel sequences.
